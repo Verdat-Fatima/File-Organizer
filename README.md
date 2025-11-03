@@ -1,2 +1,2 @@
 # File-Organizer
-A Python file management tool that automatically organizes files in a selected folder into categories like Images, Documents, Videos, Music, Archives, and Programs.
+This project is a simple Python-based File Management System that helps organize files in a selected folder automatically. It uses tkinter for folder selection and the os and shutil libraries to handle file operations. The program scans all files in the chosen directory and sorts them into categorized folders such as Images, Documents, Videos, Music, Archives, and Programs. Each file is moved to its respective category based on its extension, making your folders neat and easy to manage. This project is useful for anyone who wants to keep their files organized with just one click.
